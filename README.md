@@ -17,8 +17,10 @@ Users are ***strongly encouraged*** to perform their own due diligence before tr
 - [Properties](#properties)
 - [Official Channels](#Official-Channels)
 - [Getting started](#Getting-Started)
+- [Price Oracles](#Price-Oracles)
 - [Partnerships & Integrations](#partnerships-and-integrations)
 - [Built On Aave](#Built-On-Aave)
+
 
 ### Properties
 
@@ -49,6 +51,26 @@ Users are ***strongly encouraged*** to perform their own due diligence before tr
 - [Easy Flashloans by David Truong](https://github.com/mrdavey/ez-flashloan)
 - [EatTheBlock Flashloans solidity tutorial Video](https://youtu.be/03jO9vbrXvY)
 - [Overview of FlashLoans by Kames Cox-Geraghty](https://www.youtube.com/watch?v=r5zxdQQ4bK0)
+
+## Price Oracles
+
+- [LEND/ETH](https://feeds.chain.link/lend-eth) 
+- [BTC/ETH](https://feeds.chain.link/btc-eth)
+- [MKR/ETH](https://feeds.chain.link/mkr-eth)
+- [MANA/ETH](https://feeds.chain.link/mana-eth)
+- [KNC/ETH](https://feeds.chain.link/knc-eth)
+- [LINK/ETH](https://feeds.chain.link/link-eth)
+- [USDC/ETH](https://feeds.chain.link/usdc-eth)
+- [REP/ETH](https://feeds.chain.link/rep-eth)
+- [ZRX/ETH](https://feeds.chain.link/zrx-eth)
+- [BAT/ETH](https://feeds.chain.link/bat-eth)
+- [DAI/ETH](https://feeds.chain.link/dai-eth)
+- [TUSD/ETH](https://feeds.chain.link/tusd-eth)
+- [USDT/ETH](https://feeds.chain.link/usdt-eth)
+- [BUSD/ETH](https://feeds.chain.link/busd-eth)
+- [SUSD/ETH](https://feeds.chain.link/susd-eth)
+- [SNX/ETH](https://feeds.chain.link/snx-eth)
+
 
 ## Partnerships and Integrations
 
@@ -101,6 +123,12 @@ Users are ***strongly encouraged*** to perform their own due diligence before tr
 - [defiprime.com](https://defiprime.com/defi-rates)
 - [defipulse.com](https://defipulse.com/)
 - [loanscan.io](loanscan.io)
+
+### Partners
+
+- [Tether (USDT)](https://tether.to/)
+- [Binance (BUSD)](http://binance.com)
+- [chain.link](chain.link)
 
 
 **Credits**
