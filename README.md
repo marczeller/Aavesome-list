@@ -24,24 +24,26 @@ Users are ***strongly encouraged*** to perform their own due diligence before tr
 
 ### Properties
 
-- [Official Aave website](https://aave.com/)
-- [Aave Decentralized lending pool Dapp](https://app.aave.com)
+- [Official Aave Website](https://aave.com/)
+- [Aave Decentralized Lending Pool Dapp](https://app.aave.com)
+- [Aave Ecosystem Grants](https://medium.com/aave/aave-ecosystem-grants-88260ede1485)
+- [Developer Documentation](https://docs.aave.com/developers)
 - [Bug Bounty website](https://aave.com/bug-bounty)
 - [White-paper](https://github.com/aave/aave-protocol/blob/master/docs/Aave_Protocol_Whitepaper_v1_0.pdf)
-- [Documentation](https://developers.aave.com/)
 - [Aave Github](https://github.com/aave/)
 - [Aave FAQ](https://app.aave.com/faq)
+- [Aave Blog](https://medium.com/aave)
 
-### Official channels
-- [Discord server](https://discord.gg/36sR272)
+### Official Channels
+- [Discord Server](https://discord.gg/36sR272)
 - [Telegram Community Group](https://t.me/Aavesome)
 - [Telegram Community Group in French](https://t.me/ETHLend_FR)
 
 ### Getting Started
 
-- [From Zero to hero Guide](https://medium.com/aave/zero-to-hero-guide-2-0-dadce0f3e834)
-- [Chris Blec's Aave introduction video](https://youtu.be/BiseNyNpniE)
-- [What is Aave and how to use it Guide from Market HoDL](https://www.markethodl.com/blog/what-is-aave-protocol-and-how-to-use-it)
+- [From Zero to Hero Guide](https://medium.com/aave/zero-to-hero-guide-2-0-dadce0f3e834)
+- [Chris Blec's Aave Introduction Video](https://youtu.be/BiseNyNpniE)
+- [What is Aave and how to use it guide from Market HoDL](https://www.markethodl.com/blog/what-is-aave-protocol-and-how-to-use-it)
 - [Lending and Borrwing with Aave Guide by CryptoOneStop](https://www.youtube.com/watch?v=7PEV6xYgtpY)
 - [My Ether Wallet Aave Guide](https://www.youtube.com/watch?v=sBzoUW83QTQ)
 
@@ -49,7 +51,7 @@ Users are ***strongly encouraged*** to perform their own due diligence before tr
 ### Developers Tutorials
 
 - [Easy Flashloans by David Truong](https://github.com/mrdavey/ez-flashloan)
-- [EatTheBlock Flashloans solidity tutorial Video](https://youtu.be/03jO9vbrXvY)
+- [EatTheBlock Flashloans Solidity Tutorial Video](https://youtu.be/03jO9vbrXvY)
 - [Overview of FlashLoans by Kames Cox-Geraghty](https://www.youtube.com/watch?v=r5zxdQQ4bK0)
 
 ## Price Oracles
@@ -74,7 +76,7 @@ Users are ***strongly encouraged*** to perform their own due diligence before tr
 
 ## Partnerships and Integrations
 
-### Recommended Wallets supporting Aave
+### Recommended Wallets Supporting Aave
 
 #### Mobile
 - Trust Wallet
@@ -85,44 +87,49 @@ Users are ***strongly encouraged*** to perform their own due diligence before tr
 - Opera Touch Wallet
 
 #### Desktop
-- [metamask.io](metamask.io)
-- [Myetherwallet.com](Myetherwallet.com)
-- [Brave Browser Wallet](brave.com)
+- [Metamask.io](https://metamask.io)
+- [Myetherwallet.com](https://Myetherwallet.com)
+- [Brave Browser Wallet](https://brave.com)
 
-### Recommended Dashboards for portefolio tracking
+### Recommended Dashboards For Portfolio Tracking
 
-- [defisnap.io](defisnap.io)
-- [unspent.io](unspent.io)
-- [zerion.io](zerion.io)
+- [Defisnap.io](https://defisnap.io)
+- [Unspent.io](https://unspent.io)
+- [Zerion.io](https://zerion.io)
 
 ### Decentralized Exchanges Aggregators
 
-- [Paraswap.io](Paraswap.io)
-- [1inch.exchange](1inch.exchange)
-- [totle.com](totle.com)
+- [Paraswap.io](https://Paraswap.io)
+- [1inch.exchange](https://1inch.exchange)
+- [Totle.com](https://totle.com)
 
 ## Built On Aave
 
+### Aave Grant Recipients
+- [AaveWatch](https://aavewatch.now.sh/)
+- [ArbitrageDAO](https://medium.com/@bneiluj/flash-boys-arbitrage-dao-c0b96d094f93)
+- [CollateralSwap.com](https://CollateralSwap.com)
+
 ### Dapps Leveraging Aave Features
 
-- [CollateralSwap.com](CollateralSwap.com)
-- [1x.ag](1x.ag)
-- [Defisaver.com](DefiSaver.com)
-- [swaprate.finance](https://swaprate.finance)
-- [kollateral.co](kollateral.co)
+- [CollateralSwap.com](https://CollateralSwap.com)
+- [1x.ag](https://1x.ag)
+- [Defisaver.com](https://DefiSaver.com)
+- [Swaprate.finance](https://swaprate.finance)
+- [Kollateral.co](https://kollateral.co)
 
-### Dapps leveraging Aave Protocol
+### Dapps Leveraging Aave Protocol
 
-- [iearn.finance](iearn.finance)
-- [Nexus.mutual](Nexus.mutual)
-- [Sablier.finance](Sablier.finance)
-- [idle.finance](idle.finance)
-- [PieDAO.org](PieDao.org) (Testnet)
+- [iearn.finance](https://iearn.finance)
+- [Nexus.mutual](https://Nexus.mutual)
+- [Sablier.finance](https://Sablier.finance)
+- [idle.finance](https://idle.finance)
+- [PieDAO.org](https://PieDao.org) (Testnet)
 
 ### Defi Dashboards
-- [defiprime.com](https://defiprime.com/defi-rates)
-- [defipulse.com](https://defipulse.com/)
-- [loanscan.io](loanscan.io)
+- [Defiprime.com](https://defiprime.com/defi-rates)
+- [Defipulse.com](https://defipulse.com/)
+- [Loanscan.io](https://loanscan.io)
 
 ### Partners
 
