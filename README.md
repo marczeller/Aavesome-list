@@ -126,6 +126,11 @@ Users are ***strongly encouraged*** to perform their own due diligence before tr
 - [idle.finance](https://idle.finance)
 - [PieDAO.org](https://PieDao.org) (Testnet)
 
+### Aave Protocol Dashboard
+
+- [AaveWatch]((https://aavewatch.now.sh/))
+- [Aave Futuristic Dashboard](https://aave-futuristic-dashboard.now.sh)
+
 ### Defi Dashboards
 - [Defiprime.com](https://defiprime.com/defi-rates)
 - [Defipulse.com](https://defipulse.com/)
