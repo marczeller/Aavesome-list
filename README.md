@@ -18,7 +18,7 @@ Users are ***strongly encouraged*** to perform their own due diligence before tr
 - [Official Channels](#Official-Channels)
 - [Getting started](#Getting-Started)
 - [Partnerships & Integrations](#partnerships-and-integrations)
-- [Built On Aave][#Built-On-Aave]
+- [Built On Aave](#Built-On-Aave)
 
 ### Properties
 
