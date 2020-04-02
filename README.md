@@ -2,10 +2,6 @@
 
 The Aavesome list is a community-driven project, designed to be a resource people can use to familiarize themselves with Aave Protocol ecosystem. All are welcome to contribute.
 
-**Credits**
-
-This list is inspired by the community initiative of MakerDao [the Awesome-list](https://github.com/makerdao/awesome-makerdao)
-
 **Get Started**
 
 Those interested in Aave Protocol are invited to explore the Aavesome list collection of resources below. Get to know Aave with the help of beginner guides, official documentation, White paper, analysis pieces, tools, partnership announcements, AMAs, podcasts, and third-party apps, and more.
@@ -51,6 +47,61 @@ Users are ***strongly encouraged*** to perform their own due diligence before tr
 
 - [Easy Flashloans by David Truong](https://github.com/mrdavey/ez-flashloan)
 - [EatTheBlock Flashloans solidity tutorial Video](https://youtu.be/03jO9vbrXvY)
-- [Overview of FlashLoans by Kames Cox-Geraghty]()
+- [Overview of FlashLoans by Kames Cox-Geraghty](https://www.youtube.com/watch?v=r5zxdQQ4bK0)
 
-###
+## Partnerships and Integrations
+
+### Recommended Wallets supporting Aave
+
+#### Mobile
+- Trust Wallet
+- Metamask Mobile
+- Coinbase Wallet
+- imToken
+- AlphaWallet
+- Opera Touch Wallet
+
+#### Desktop
+- [metamask.io](metamask.io)
+- [Myetherwallet.com](Myetherwallet.com)
+- [Brave Browser Wallet](brave.com)
+
+### Recommended Dashboards for portefolio tracking
+
+- [defisnap.io](defisnap.io)
+- [unspent.io](unspent.io)
+- [zerion.io](zerion.io)
+
+### Decentralized Exchanges Aggregators
+
+- [Paraswap.io](Paraswap.io)
+- [1inch.exchange](1inch.exchange)
+- [totle.com](totle.com)
+
+## Built On Aave
+
+### Dapps Leveraging Aave Features
+
+- [CollateralSwap.com](CollateralSwap.com)
+- [1x.ag](1x.ag)
+- [Defisaver.com](DefiSaver.com)
+- [swaprate.finance](https://swaprate.finance)
+- [kollateral.co](kollateral.co)
+
+### Dapps leveraging Aave Protocol
+
+- [iearn.finance](iearn.finance)
+- [Nexus.mutual](Nexus.mutual)
+- [Sablier.finance](Sablier.finance)
+- [idle.finance](idle.finance)
+- [PieDAO.org](PieDao.org) (Testnet)
+
+### Defi Dashboards
+- [defiprime.com](https://defiprime.com/defi-rates)
+- [defipulse.com](https://defipulse.com/)
+- [loanscan.io](loanscan.io)
+
+
+**Credits**
+
+This list is inspired by the community initiative of MakerDao [the Awesome-list](https://github.com/makerdao/awesome-makerdao)
