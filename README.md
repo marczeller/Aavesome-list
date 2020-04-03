@@ -83,6 +83,7 @@ Alternative Languages groups
 - [Defisnap.io](https://defisnap.io)
 - [Unspent.io](https://unspent.io)
 - [Zerion.io](https://zerion.io)
+- [DeFi Portfolio Tracker](http://portfolio.defiprime.com/)
 
 ### Decentralized Exchanges Aggregators
 
