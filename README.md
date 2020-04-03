@@ -60,13 +60,13 @@ Users are ***strongly encouraged*** to perform their own due diligence before tr
 
 #### Mobile
 - Trust Wallet
-- Metamask Mobile
 - Coinbase Wallet
 - imToken
 - AlphaWallet
 - Opera Touch Wallet
 - Status Wallet
 - EBO Wallet
+- Metamask Mobile
 
 #### Desktop
 - [Metamask.io](https://metamask.io)
