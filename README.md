@@ -65,6 +65,8 @@ Users are ***strongly encouraged*** to perform their own due diligence before tr
 - imToken
 - AlphaWallet
 - Opera Touch Wallet
+- Status Wallet
+- EBO Wallet
 
 #### Desktop
 - [Metamask.io](https://metamask.io)
@@ -103,7 +105,8 @@ Users are ***strongly encouraged*** to perform their own due diligence before tr
 - [iearn.finance](https://iearn.finance)
 - [Nexus.mutual](https://Nexus.mutual)
 - [Sablier.finance](https://Sablier.finance)
-- [idle.finance](https://idle.finance)
+- [Idle.finance](https://idle.finance)
+- [Deflast.finance](https://deflast.finance/)
 - [PieDAO.org](https://PieDao.org) (Testnet)
 
 ### Aave Protocol Dashboard
@@ -115,12 +118,14 @@ Users are ***strongly encouraged*** to perform their own due diligence before tr
 - [Defiprime.com](https://defiprime.com/defi-rates)
 - [Defipulse.com](https://defipulse.com/)
 - [Loanscan.io](https://loanscan.io)
+- [DeBank.com](https://debank.com/)
 
 ### Partners
 
 - [Tether (USDT)](https://tether.to/)
 - [Binance (BUSD)](http://binance.com)
-- [chain.link](chain.link)
+- [Chain.link](chain.link)
+- [Opium Protocol](https://opium.team/)
 
 
 ## Price Oracles
