@@ -37,7 +37,13 @@ Users are ***strongly encouraged*** to perform their own due diligence before tr
 ### Official Channels
 - [Discord Server](https://discord.gg/36sR272)
 - [Telegram Community Group](https://t.me/Aavesome)
+- [Twiiter Account](https://twitter.com/AaveAave)
+
+Alternative Languages groups
+
 - [Telegram Community Group in French](https://t.me/ETHLend_FR)
+- [Telegram Community Group in Italian](https://t.me/ETHLend_ITA)
+
 
 ### Getting Started
 
