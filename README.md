@@ -66,7 +66,6 @@ Users are ***strongly encouraged*** to perform their own due diligence before tr
 - Opera Touch Wallet
 - Status Wallet
 - EBO Wallet
-- Metamask Mobile
 
 #### Desktop
 - [Metamask.io](https://metamask.io)
@@ -111,7 +110,7 @@ Users are ***strongly encouraged*** to perform their own due diligence before tr
 
 ### Aave Protocol Dashboard
 
-- [AaveWatch]((https://aavewatch.now.sh/))
+- [AaveWatch](https://aavewatch.now.sh/)
 - [Aave Futuristic Dashboard](https://aave-futuristic-dashboard.now.sh)
 
 ### Defi Dashboards
