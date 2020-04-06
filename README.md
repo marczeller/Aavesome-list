@@ -113,6 +113,7 @@ Alternative Languages groups
 - [Sablier.finance](https://Sablier.finance)
 - [Idle.finance](https://idle.finance)
 - [Deflast.finance](https://deflast.finance/)
+- [Stake.us Robo-Yield](https://stake.us)
 - [PieDAO.org](https://PieDao.org) (Testnet)
 
 ### Aave Protocol Dashboard
