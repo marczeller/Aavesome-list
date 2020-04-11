@@ -71,7 +71,7 @@ Alternative Languages groups
 - AlphaWallet
 - Opera Touch Wallet
 - Status Wallet
-- EBO Wallet
+- [EBO Wallet](https://ebo.io)
 
 #### Desktop
 - [Metamask.io](https://metamask.io)
