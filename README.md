@@ -105,6 +105,7 @@ Alternative Languages groups
 - [Defisaver.com](https://DefiSaver.com)
 - [Swaprate.finance](https://swaprate.finance)
 - [Kollateral.co](https://kollateral.co)
+- [88mph.app](https://88mph.app/)
 
 ### Dapps Leveraging Aave Protocol
 
