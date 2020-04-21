@@ -72,6 +72,7 @@ Alternative Languages groups
 - Opera Touch Wallet
 - Status Wallet
 - [EBO Wallet](https://ebo.io)
+- [myKey](https://mykey.org/)
 
 #### Desktop
 - [Metamask.io](https://metamask.io)
@@ -114,7 +115,7 @@ Alternative Languages groups
 - [Sablier.finance](https://Sablier.finance)
 - [Idle.finance](https://idle.finance)
 - [Deflast.finance](https://deflast.finance/)
-- [Stake.us Robo-Yield](https://stake.us)
+- [Staked.us Robo-Yield](https://staked.us)
 - [PieDAO.org](https://PieDao.org) (Testnet)
 
 ### Aave Protocol Dashboard
