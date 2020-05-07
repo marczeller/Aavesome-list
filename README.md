@@ -116,7 +116,7 @@ Alternative Languages groups
 - [Idle.finance](https://idle.finance)
 - [Deflast.finance](https://deflast.finance/)
 - [Staked.us Robo-Yield](https://staked.us)
-- [PieDAO.org](https://PieDao.org) (Testnet)
+- [PieDAO.org](https://PieDao.org)
 
 ### Aave Protocol Dashboard
 
