@@ -52,6 +52,7 @@ Alternative Languages groups
 - [What is Aave and how to use it guide from Market HoDL](https://www.markethodl.com/blog/what-is-aave-protocol-and-how-to-use-it)
 - [Lending and Borrwing with Aave Guide by CryptoOneStop](https://www.youtube.com/watch?v=7PEV6xYgtpY)
 - [My Ether Wallet Aave Guide](https://www.youtube.com/watch?v=sBzoUW83QTQ)
+- [Presentation of the Aave Ecosystem by publish0x](https://www.publish0x.com/crypto-truth-lexicon/top-things-you-should-know-about-aave-lend-xwngljy)
 
 
 ### Developers Tutorials
